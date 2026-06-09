@@ -195,8 +195,11 @@ pip install pandas numpy matplotlib seaborn mysql-connector-python
 
 ## Author
 
-**Kapil Sanjay Mali**
+Kapil Sanjay Mali
 Data Analyst | SQL | Python | Excel | Power BI
 
-LinkedIn: *(Add LinkedIn link)*
-GitHub: *(Add GitHub link)*
+LinkedIn: https://www.linkedin.com/in/kapil-mali/
+GitHub: https://github.com/Kapilmali07
+**Kapil Sanjay Mali**
+Data Analyst | SQL | Python | Excel | Power BI
+LinkedIn: *(Add LinkedIn link)
