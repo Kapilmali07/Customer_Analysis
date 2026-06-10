@@ -1,4 +1,4 @@
-# Customer_Analysis - Data Analytics Project
+# Customer Shopping Behavior - Data Analytics Project
 
 ## Overview
 
@@ -195,11 +195,7 @@ pip install pandas numpy matplotlib seaborn mysql-connector-python
 
 ## Author
 
-Kapil Sanjay Mali
-Data Analyst | SQL | Python | Excel | Power BI
-
-LinkedIn: https://www.linkedin.com/in/kapil-mali/
-GitHub: https://github.com/Kapilmali07
 **Kapil Sanjay Mali**
-Data Analyst | SQL | Python | Excel | Power BI
-LinkedIn: *(Add LinkedIn link)
+Data Analyst | Python | SQL | Excel | Power BI
+LinkedIn: https://www.linkedin.com/in/kapil-mali/
+GitHub: https://github.com/Kapilmali07 
